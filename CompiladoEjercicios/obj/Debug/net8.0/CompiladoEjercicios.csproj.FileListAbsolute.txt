@@ -1,0 +1,15 @@
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\bin\Debug\net8.0\CompiladoEjercicios.exe
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\bin\Debug\net8.0\CompiladoEjercicios.deps.json
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\bin\Debug\net8.0\CompiladoEjercicios.runtimeconfig.json
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\bin\Debug\net8.0\CompiladoEjercicios.dll
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\bin\Debug\net8.0\CompiladoEjercicios.pdb
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.AssemblyInfoInputs.cache
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.AssemblyInfo.cs
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.sourcelink.json
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.dll
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\refint\CompiladoEjercicios.dll
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.pdb
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\CompiladoEjercicios.genruntimeconfig.cache
+C:\Users\Mateo\Desktop\UNIVERSIDAD\WEB AV\Examen1erParcialWebAv\CompiladoEjercicios\obj\Debug\net8.0\ref\CompiladoEjercicios.dll
